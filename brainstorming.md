@@ -41,17 +41,17 @@
 * Make stickers \- like the sticker feature in iphone, but for this you can upload images, draw on them, change the cropping, stretch, ect  
 * Quiz but interview prep \- quizzes but interview/job related questions, you can add your own questions and answers Maybe ai resume review
 
-Step 2: Evaluating App Ideas
+## Step 2: Evaluating App Ideas
 
 * Task App  
   * Cute anime girl thats jumps and does cute poses  
   * AI voice (audio)  
   * Take a selfie with the anime girl  
   * Sends reminders/notifications (push notifications)  
-* Vacation Planner  
+* ## Vacation Planner  (chosen app)
   * Incorporate map, location, real time, AI api  
   * All resources in one place (no need to jump from site to site)  
-  * Helpful for indecisive people (i.e. able to provide concrete ideas) and can adjust vacation plans (romantic getaway vs. family vacation)  
+  * Helpful for indecisive people (i.e. able to provide concrete ideas) and can adjust vacation plans (romantic getaway vs. family vacation) 
   * Collaborative planning (multiple people can join in and plan the vacation)  
   * Budget friendly location, hidden gems  
   * Calculating the expenses throughout trips (can put in all who paid, who ate/used, and automatically calculate everything)   
